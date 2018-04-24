@@ -19,8 +19,10 @@ wp_add_dashboard_widget('custom_help_widget', '!! Ne pas oublier !!', 'custom_da
 
 function custom_dashboard_help() {
 echo '
-<img src="https://github.com/6clicks/tuto-snow/blob/master/logo-925.png">
+<img src="https://raw.githubusercontent.com/6clicks/tuto-snow/master/logo-925.png">
 <h2>tutorial pour installer SNOW <h2>
+1. une fois installé le thème vous pouvez masquer cette fenêtre avec les option d\'écrant
+2. Importer les ACF pour les images résponsive télécharger ce fichier et l\' importer dans ACF
 <br>
 ';
 }
