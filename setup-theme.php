@@ -23,7 +23,7 @@ echo '
 <h2>tutorial pour installer SNOW </h2>
 <ol>
 <li> une fois installé le thème vous pouvez masquer cette fenêtre avec les option d\'écrant</li>
-<li> Importer les ACF pour les images résponsive <a href="tuto-snow/acf-images-responsive.json">télécharger ce fichier </a> et l\' importer dans ACF</li>
+<li> Importer les ACF pour les images résponsive <a href="https://raw.githubusercontent.com/6clicks/tuto-snow/master/acf-images-responsive.json">télécharger ce fichier </a> et l\' importer dans ACF</li>
 </ol>
 <br>
 ';
